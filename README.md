@@ -4,11 +4,13 @@ Auteur : Maxence Zolnieruck
 
 Ce site a été réalisé dans le cadre d'un TP à l'INSA HdF à l'aide de Bootstrap.
 
+Ce projet m'a permis de prendre du temps afin de développer un site qui va m'être utile pour ma vie professionelle, ce pourquoi je l'ai hebergé.
+
 Le site est accessible via ce [lien](http://mxce.fr).
 
 ## Ressources
 
-J'ai utilisé ce [template](https://bootstrapmade.com/demo/MyResume/) pour la réalisation de ce TP.
+J'ai utilisé ce [template](https://bootstrapmade.com/demo/MyResume/) responsive pour la réalisation de ce TP.
 
 ## Plan de developpement
 
